@@ -42,7 +42,7 @@ The about us page provides comprehensive information about the project and the t
 - **ERD Diagram:** Illustrates the database design and relationships.
 
 *Image Description: The about us page image shows the project description, blood types information, team photos, and the ERD diagram.*
-![About Us Page](images_readme/about_us.png)
+![About Us Page](images_readme/about_us1.png)
 ![About Us Page](images_readme/about_us2.png)
 
 
